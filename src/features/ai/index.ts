@@ -1,1 +1,1 @@
-export * from "./ui";
+export { SendMessage } from "./ui/send-message/send-message";
